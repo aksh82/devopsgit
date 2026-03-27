@@ -1,0 +1,14 @@
+1 Sun Mercury 57.9Mkm
+2 Sun Venus 108.2Mkm
+3 Earth Moon 384400km
+4 Sun Mars 227.9Mkm
+5 Sun Jupiter 778.5Mkm
+6 Sun Saturn 1.4Bkm
+7 Sun Uranus 2.9Bkm
+8 Sun Neptune 4.5Bkm
+9 Earth ISS 408km
+10 Mars Phobos 9376km
+
+
+
+
